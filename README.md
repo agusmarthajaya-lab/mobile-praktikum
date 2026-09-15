@@ -44,3 +44,6 @@ Perintah `flutter pub get` digunakan untuk mengambil dependency yang dibutuhkan 
 Flutter sudah terpasang dan perintah flutter pub get berhasil dijalankan. Flutter juga berhasil mendeteksi perangkat Windows, Chrome, dan Edge.
 
 Namun, saat mencoba menjalankan aplikasi menggunakan flutter run pada Windows, aplikasi belum dapat dijalankan karena Visual Studio toolchain belum tersedia. Oleh karena itu, setup untuk menjalankan aplikasi desktop Windows masih membutuhkan instalasi dan konfigurasi Visual Studio dengan komponen yang diperlukan untuk pengembangan Flutter Windows.
+## Catatan Pengembangan
+
+Proyek ini dikembangkan menggunakan Git dan GitHub untuk mendukung proses pembelajaran pemrograman mobile.
